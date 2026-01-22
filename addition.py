@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+"""
+SciFi calculator - Addition Module
+----------------------------------
+This script takes two integers as inputs and returns their sum.
+Developed as part of a DevOps collaboration demo betwen two users
+"""
+
 # Global variable (used only for demonstration)
 welcome_message = "Welcome to SciFi Calculator - Addition Module"
 
